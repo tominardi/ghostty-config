@@ -7,7 +7,7 @@ My personal **Ghostty** configuration – fast, clean, and efficient. 🚀
 The fastest way to install this config:  
 
 ```sh
-bash <(curl -sL https://raw.githubusercontent.com/tominardi/ghostty-config/main/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/tominardi/ghostty-config/refs/heads/master/install.sh)
 ```
 
 Or do it manually:
